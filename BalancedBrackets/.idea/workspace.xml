@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efd08842-1dff-40cf-a911-18a13f81084c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mM0CtgEQsLyk8NZBDL4Fe3QrZ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BalancedBrackets" />
+      <module name="BalancedBrackets" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BalancedBrackets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd08842-1dff-40cf-a911-18a13f81084c" name="Default Changelist" comment="" />
+      <created>1609288028498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609288028498</updated>
+      <workItem from="1609288033550" duration="4883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="89" key="#Project_Structure" timestamp="1609288254837">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="320" y="89" key="#Project_Structure/0.23.1440.801@0.23.1440.801" timestamp="1609288254837" />
+    <state width="921" height="205" key="GridCell.Tab.0.bottom" timestamp="1609351999851">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="921" height="205" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1609351999851" />
+    <state width="921" height="205" key="GridCell.Tab.0.center" timestamp="1609351999847">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="921" height="205" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1609351999847" />
+    <state width="921" height="205" key="GridCell.Tab.0.left" timestamp="1609351999846">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="921" height="205" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1609351999846" />
+    <state width="921" height="205" key="GridCell.Tab.0.right" timestamp="1609351999849">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="921" height="205" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1609351999849" />
+    <state x="397" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1609288038261">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="397" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1609288038261" />
+    <state x="97" y="46" key="new project wizard" timestamp="1609288054893">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="97" y="46" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1609288054893" />
+  </component>
+</project>
